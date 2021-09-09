@@ -1,5 +1,5 @@
 <h1 align="center">
-    👋 Hey there!👋
+    <img height="25px" width="25px" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603"/> Hey there!
 <h1>
 
 
