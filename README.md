@@ -76,9 +76,7 @@
 <br>
 
 <details>
-    <summary><span style="font-size: 1.25rem">Tucker's GitHub Stats</span></summary>
-
-<br>
+    <summary>Tucker's GitHub Stats</summary>
 
 ![GrinninBarrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=grinninbarrett&show_icons=true&theme=nightowl)
 
