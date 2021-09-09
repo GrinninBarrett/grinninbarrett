@@ -76,7 +76,7 @@
 <br>
 
 <details>
-    <summary>Tucker's GitHub Stats</summary>
+    <summary><span style="font-size: 1.25rem">Tucker's GitHub Stats</span></summary>
 
 <br>
 
