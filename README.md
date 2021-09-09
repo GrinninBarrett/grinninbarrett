@@ -79,4 +79,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grinninbarrett&layout=compact&theme=nightowl)](https://github.com/grinninbarrett/github-readme-stats)
+[![GrinninBarrett's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grinninbarrett&layout=compact&theme=nightowl)](https://github.com/grinninbarrett/github-readme-stats)
+
+<br>
+
+[![GrinninBarrett's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=grinninbarrett&theme=nightowl)](https://github.com/grinninbarrett/github-readme-streak-stats)
