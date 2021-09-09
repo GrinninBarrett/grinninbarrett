@@ -79,6 +79,8 @@
 <details>
     <summary>Tucker's GitHub Stats</summary>
 
+<br>
+
 ![GrinninBarrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=grinninbarrett&show_icons=true&theme=nightowl)
 
 <br>
