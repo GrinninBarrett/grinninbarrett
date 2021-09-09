@@ -26,7 +26,7 @@
             alt="Tucker's Instagram Profile"/>
     </a>&nbsp;&nbsp;
     <a href="https://open.spotify.com/user/1236791434?si=f55a439a4c464e16">
-        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" 
+        <img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white" 
             alt="Tucker's Spotify Profile"/>
     </a>&nbsp;&nbsp;
 </p>
