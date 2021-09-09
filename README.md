@@ -30,7 +30,6 @@
             alt="Tucker's Spotify Profile"/>
     </a>&nbsp;&nbsp;
 </p>
-<br>
 
 ---
 
@@ -49,8 +48,6 @@
 <br>
 
 ---
-
-<br>
 
 <h3 align="center">Look what I can do!</h3>
 
