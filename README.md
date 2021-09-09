@@ -1,7 +1,6 @@
-<h1 align="center">👋 Hey there!👋<h1>
+# 👋 Hey there!👋
 
-<h2 align="center">I'm Tucker, a full stack web developer currently based in Raleigh, NC. I'm a former music teacher, current home baker, and lifelong animal lover.</h2>
-<br>
+## I'm Tucker, a full stack web developer currently based in Raleigh, NC. I'm a former music teacher, current home baker, and lifelong animal lover.
 
 <h3 align="center">Let's connect!</h3>
 
@@ -76,3 +75,11 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grinninbarrett&layout=compact&theme=nightowl)](https://github.com/grinninbarrett/github-readme-stats)
+
+<style>
+
+    h1, h2 {
+        text-align: center;
+    }
+
+</style>
