@@ -39,11 +39,11 @@
 
 🌱 I’m currently learning about Sequelize, Handlebars.js, and the MVC design pattern
 
-👀 I’m looking to collaborate on more open source projects in the near future
+🤝 I’m looking to collaborate on more open source projects in the near future
 
-🤔 I'm always seeking feedback to help improve my skills
+🧐 I'm always seeking feedback to help improve my skills
 
-⚡ Fun fact: I have lived in South Korea 🇰🇷 and Taiwan 🇹🇼, and make a mean sourdough pizza 🍕!
+🔥 Fun fact: I have lived in South Korea 🇰🇷 and Taiwan 🇹🇼, and make a mean sourdough pizza 🍕!
 
 <br>
 
