@@ -36,9 +36,9 @@
 
 <br>
  
-🔭 I’m working towards a career in web development
+🔭 I’m working toward a career in web development
 
-🌱 I’m currently growing my skills in React, GraphQL, and the MERN stack`
+🌱 I’m currently growing my skills in React, GraphQL, and the MERN stack
 
 🤝 I’m looking to collaborate on more open source projects in the near future
 
