@@ -85,6 +85,7 @@
 ![Mongoose](https://img.shields.io/badge/mongoose-800E00?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-coral?style=for-the-badge&logo=mysql&logoColor=darkblue)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-blue?style=for-the-badge&logo=Sequelize)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)&nbsp;
