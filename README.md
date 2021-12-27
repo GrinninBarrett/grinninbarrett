@@ -2,11 +2,9 @@
     <img height="30px" width="30px" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603"/> Hey there!
 <h1>
 
-
 <h2 align="center">
     I'm Tucker, a full stack web developer currently based in Raleigh, NC. I'm a former music teacher, current home baker, and lifelong animal lover.
 </h2>
-
 
 <h3 align="center">
     Let's connect!
@@ -32,13 +30,14 @@
 </p>
 
 ---
+
 ---
 
 <br>
  
 🔭 I’m working toward a career in web development
 
-🌱 I’m currently growing my skills in React, GraphQL, and the MERN stack
+🌱 I’m currently growing my skills in Next.js, GraphQL, and the MERN stack
 
 🤝 I’m looking to collaborate on more open source projects in the near future
 
@@ -51,6 +50,7 @@
 <br>
 
 ---
+
 ---
 
 <h3 align="center">Look what I can do!</h3>
